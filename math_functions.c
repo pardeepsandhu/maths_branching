@@ -1,4 +1,4 @@
-//hi
+//This is the line causing issue in the master branch
 #include <stdio.h>
 
 float add (float x, float y)
