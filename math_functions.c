@@ -49,5 +49,5 @@ int main()
     }
     while (op != 'q');
     
-    return 0;
+    return 0; //this is the end
 }
